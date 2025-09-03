@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(41,48): warning C4305: аргумент: усечение из "double" в "T"
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(41,48): warning C4305:         with
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(41,48): warning C4305:         [
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(41,48): warning C4305:             T=float
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(41,48): warning C4305:         ]
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20): warning C4244: return: преобразование "double" в "T", возможна потеря данных
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20): warning C4244:         with
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20): warning C4244:         [
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20): warning C4244:             T=int
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+      C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(24,20):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(25,14):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Point<int>"
+          C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\Point.h(21,7):
+          во время компиляции функции-члена класс шаблон "T Point<T>::get_distance(Point<T> &) const"
+          with
+          [
+              T=int
+          ]
+              C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(61,3):
+              см. первую ссылку на "Point<int>::get_distance" в "test::test2_get_distance_Point"
+  
+C:\Users\lyuba\source\repos\PointAndCircle\PointAndCircle\main.cpp(14,1): warning C4715: test::result: значение возвращается не при всех путях выполнения
+  PointAndCircle.vcxproj -> C:\Users\lyuba\source\repos\PointAndCircle\x64\Debug\PointAndCircle.exe
