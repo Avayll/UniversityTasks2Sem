@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\",
+  "WorkspaceRootPath": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|solutionrelative:PointAndCircle\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|solutionrelative:PointAndCircle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C71F860-3554-49ED-8ADA-633C40A63AC7}|PointAndCircle\\PointAndCircle.vcxproj|solutionrelative:PointAndCircle\\CircleAndSphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,37 +36,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\main.cpp",
               "RelativeDocumentMoniker": "PointAndCircle\\main.cpp",
-              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\main.cpp",
+              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\main.cpp",
               "RelativeToolTip": "PointAndCircle\\main.cpp",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAE4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-03T14:35:21.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:35:21.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CircleAndSphere.h",
-              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h",
+              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h",
               "RelativeDocumentMoniker": "PointAndCircle\\CircleAndSphere.h",
-              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h",
+              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\CircleAndSphere.h",
               "RelativeToolTip": "PointAndCircle\\CircleAndSphere.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-03T14:35:13.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:35:13.743Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Point.h",
-              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\Point.h",
+              "DocumentMoniker": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\Point.h",
               "RelativeDocumentMoniker": "PointAndCircle\\Point.h",
-              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\PointAndCircle\\PointAndCircle\\Point.h",
+              "ToolTip": "C:\\Users\\lyuba\\source\\repos\\github_UniversityTasks2Sem\\UniversityTasks2Sem\\PointAndCircle\\PointAndCircle\\Point.h",
               "RelativeToolTip": "PointAndCircle\\Point.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-03T14:34:56.728Z",
               "EditorCaption": ""
