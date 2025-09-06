@@ -18,7 +18,7 @@ public:
     void setX(T newX) { _x = newX; }
     void setY(T newY) { _y = newY; }
 
-    T get_distance(Point& other) const {
+    T get_distance(const Point& other) const {
         T a_x = other.getX() - _x;
         T a_y = other.getY() - _y;
         return sqrt(a_x * a_x + a_y * a_y);
