@@ -27,7 +27,7 @@ public:
 
 template<typename T>
 class Point3D : public Point<T> {
-private:
+protected:
     T _z;
 public:
     Point3D() : Point<T>(), _z(0) {}
@@ -38,7 +38,7 @@ public:
 
     void setZ(T newZ) { _z = newZ; }
 
-    T get_distance3D(Point3D& other) const {
+    T get_distance3D(const Point3D& other) const {
         T a_x = other.getX() - this->_x;
         T a_y = other.getY() - this->_y;
         T a_z = other.getZ() - this->_z;

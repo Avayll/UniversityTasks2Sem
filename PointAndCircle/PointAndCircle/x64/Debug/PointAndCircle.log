@@ -15,7 +15,7 @@ C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\Point
           C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\main.cpp(25,14):
           выполняется компиляция ссылки на экземпляр класс шаблон функции "Point<int>"
           C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(21,7):
-          во время компиляции функции-члена класс шаблон "T Point<T>::get_distance(Point<T> &) const"
+          во время компиляции функции-члена класс шаблон "T Point<T>::get_distance(const Point<T> &) const"
           with
           [
               T=int
@@ -23,5 +23,28 @@ C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\Point
               C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\main.cpp(61,3):
               см. первую ссылку на "Point<int>::get_distance" в "test::test2_get_distance_Point"
   
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20): warning C4244: return: преобразование "double" в "T", возможна потеря данных
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20): warning C4244:         with
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20): warning C4244:         [
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20): warning C4244:             T=int
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+      C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(45,20):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\main.cpp(67,16):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Point3D<int>"
+          C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\Point.h(41,7):
+          во время компиляции функции-члена класс шаблон "T Point3D<T>::get_distance3D(const Point3D<T> &) const"
+          with
+          [
+              T=int
+          ]
+              C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\CircleAndSphere.h(73,20):
+              см. первую ссылку на "Point3D<int>::get_distance3D" в "Sphere<int>::is_intersects"
+              C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\main.cpp(191,9):
+              см. первую ссылку на "Sphere<int>::is_intersects" в "test::test5_is_intersects_Sphere"
+  
 C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\main.cpp(14,1): warning C4715: test::result: значение возвращается не при всех путях выполнения
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\CircleAndSphere.h(85,1): warning C4715: Sphere<int>::is_intersects: значение возвращается не при всех путях выполнения
+C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\PointAndCircle\CircleAndSphere.h(44,1): warning C4715: Circle<int>::is_intersects: значение возвращается не при всех путях выполнения
   PointAndCircle.vcxproj -> C:\Users\lyuba\source\repos\github_UniversityTasks2Sem\UniversityTasks2Sem\PointAndCircle\x64\Debug\PointAndCircle.exe
